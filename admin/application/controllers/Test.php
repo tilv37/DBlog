@@ -76,7 +76,7 @@ class Test extends CI_Controller
 
     public function deen()
     {
-        $obj='m8Db1aG+ExMdSQ0CF69oj3ero034yZ7JSwWSirl8wAThGa5M0z9DaEHampgH0vUWLlO4ILe8aGnmVy7XtnuNw5B/OVHhljF1XsRc3qcojKXwp9g70jxQCmJqQ+JQGP9t1A6GggbYb/Tfq7cgvrAF67f1XGt+wQeaxLt0//nLq9E=';
+        $obj='m8Db1/OVHhljF1XsRc3qcojKXwp9g70jxQCmJqQ+JQGP9t1A6GggbYb/Tfq7cgvrAF67f1XGt+wQeaxLt0//nLq9E=';
         $obj222=$this->httpauthclass->unserializeUserData($obj);
         var_dump($obj222);
     }
