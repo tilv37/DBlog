@@ -96,3 +96,11 @@ A personal blog platform with CodeIgniter
 
 图例
 
+![image](https://github.com/tilv37/DBlog/blob/master/Doc/homepage.png)
+![image](https://github.com/tilv37/DBlog/blob/master/Doc/blogList.png)
+![image](https://github.com/tilv37/DBlog/blob/master/Doc/aboutMe.png)
+![image](https://github.com/tilv37/DBlog/blob/master/Doc/PostList.png)
+![image](https://github.com/tilv37/DBlog/blob/master/Doc/aboutEdit.png)
+![image](https://github.com/tilv37/DBlog/blob/master/Doc/category.png)
+![image](https://github.com/tilv37/DBlog/blob/master/Doc/login.png)
+![image](https://github.com/tilv37/DBlog/blob/master/Doc/userEdit.png)
