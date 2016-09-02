@@ -30,9 +30,9 @@ class Test extends CI_Controller
             'cost' => 12,
             'salt' => mcrypt_create_iv(22, MCRYPT_DEV_URANDOM)
         );
-        echo password_hash("dsz0992dsh", PASSWORD_BCRYPT, $options)."\n";
+        echo password_hash("sdasdad", PASSWORD_BCRYPT, $options)."\n";
         echo '<br>';
-        if (password_verify('dsz0992dsh','$2y$12$9pxtNusM/EbHXqmpkJvMp.A3RCbg9bfqCoeCl7ZvWsodF1gyCpEWK')) {
+        if (password_verify('dasdas','$2y$12$9pxtNusM/EbHXqmpkJvMp.A3RCbg9bfqCoeCl7ZvWsodF1gyCpEWK')) {
             echo "密码正确";
         } else {
             echo "密码错误";
@@ -66,7 +66,7 @@ class Test extends CI_Controller
 
     public function setc()
     {
-        $this->input->set_cookie('aaaaaa', 'dingshuo', 86400);
+        $this->input->set_cookie('aaaaaa', 'dingshuo2222', 86400);
     }
 
     public function getc()
