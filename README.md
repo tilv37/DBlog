@@ -1,4 +1,4 @@
-# D2Blog
+# DBlog
 A personal blog platform with CodeIgniter
 使用CI3框架进行个人博客开发
 ---
